@@ -1,0 +1,21 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F2had/dockerNodeServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F2had/dockerNodeServer/issues"
+  },
+  "homepage": "https://github.com/F2had/dockerNodeServer#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
